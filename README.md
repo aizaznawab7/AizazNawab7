@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about Chakwal
 - 📫 How to reach me: GitHub
 - 😄 Pronouns: Him/His/He
+
+<img src="https://github-readme-stats.vercel.app/api?username=aizaznawab7&show_icons=false">
+<img src="https://komarev.com/ghpvc/?username=aizaznawab7&label=Profile+Visits&color=dc143c">
